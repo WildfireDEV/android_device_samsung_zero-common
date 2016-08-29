@@ -70,7 +70,6 @@ NUM_FRAMEBUFFER_SURFACE_BUFFERS := 5
 
 # (G)SCALER
 BOARD_USES_SCALER := true
-BOARD_USES_DT := true
 
 # Hardware
 BOARD_HARDWARE_CLASS += device/samsung/zero-common/cmhw
